@@ -39,20 +39,13 @@ Create a `.env` file (if your code uses environment variables), for example:
 GROQ_API_KEY=your_api_key_here
 ```
 
-## Run
 
-Use your project’s actual entry-point file:
-
-```bash
-python <your_entry_file>.py
-```
-
-Example (only if applicable in your repo):
+Example :
 
 ```bash
 python app.py
-# or
-python main.py
+
+
 ```
 
 ## What this project does
